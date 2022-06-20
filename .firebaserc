@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "dodi-web": {
+      "hosting": {
+        "dodi-web": [
+          "dodi-web"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "dodi-web"
+  }
+}
